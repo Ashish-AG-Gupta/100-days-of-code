@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log ( lerning python)
+# 100 Days Of Code - Log ( learning python)
 
 ### Day 1: May 31, 2020
 
