@@ -2,7 +2,7 @@
 
 ### Day 1: May 31, 2020
 
-**Today's Progress**: 
+**Today's Progress**: learning Data Structures
 
-**Thoughts:** 
-**Link to work:** 
+**Thoughts:** Studied lists and lists methods on udacity
+**Link to work:*
