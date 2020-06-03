@@ -11,4 +11,10 @@
 
 **Today's Progress**: learning Data Structures
 
-**Thoughts:** Studied tuples, sets and dictionaries 
+**Thoughts:** Studied tuples, sets and dictionaries
+
+### Day 2: June 2, 2020
+
+**Today's Progress**: Studied complex data structure and completed data structure concepts
+
+**Thoughts:** I have started learning basics and need to keep working hard.
