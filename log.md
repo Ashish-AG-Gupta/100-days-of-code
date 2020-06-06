@@ -22,3 +22,6 @@
 ### Day 4: June 5, 2020
 
 **Today's Progress**: Started control flow and specifically studied about if conditional statement
+
+## Day 5: June 6, 2020
+**Today's Progress**: Studied for loop and range functions in for loops, practiced for loop quiz
