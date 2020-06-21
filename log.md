@@ -25,3 +25,11 @@
 
 ## Day 5: June 6, 2020
 **Today's Progress**: Studied for loop and range functions in for loops, practiced for loop quiz
+
+## Day 6: June 21, 2020
+**Today's Progress**:
+  for loop -> ideal for the condition when number of iterations is known or finite
+  While loop -> iterations need to continue until a condition is meet
+  Link : https://stackoverflow.com/questions/920645/when-to-use-while-or-for-in-python
+  break : can break for and while loops
+  continue: skip one iteration of loops 
