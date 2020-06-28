@@ -32,4 +32,17 @@
   While loop -> iterations need to continue until a condition is meet
   Link : https://stackoverflow.com/questions/920645/when-to-use-while-or-for-in-python
   break : can break for and while loops
-  continue: skip one iteration of loops 
+  continue: skip one iteration of loops
+
+## Day 7: June 22, 2020
+**Today's Progress**:
+  "" is used to create empty string
+  eg : a = "" , print (a) -will be empty
+
+## Day 8: June 28, 2020
+**Today's Progress**:
+ - Order of Instructions matter while writing  code
+ - strings can be concatenated using addition.
+ - Sting and integers can be printed using format function
+ - escape charcter (\) can be used to include quotes
+ - for importing module from  <module> import <specific> eg : from math import *
