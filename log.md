@@ -54,4 +54,5 @@
 ### Day 10: July 4, 2020
 **Today's Progress**:
 - return keyword returns the value to the function and also break out of the function
-- If statements 
+- If statements ,
+- dictionaries ( key value pairs)
