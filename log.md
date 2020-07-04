@@ -51,3 +51,7 @@
 **Today's Progress**:
 - tuples are immutable, they can't be changed once created
 - Functions 
+### Day 10: July 4, 2020
+**Today's Progress**:
+- return keyword returns the value to the function and also break out of the function
+- If statements 
