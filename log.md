@@ -56,3 +56,8 @@
 - return keyword returns the value to the function and also break out of the function
 - If statements ,
 - dictionaries ( key value pairs)
+### Day 11: July 5, 2020
+- created simple guess the word program 
+- for loops
+- created an exponent function and simple translate program
+- 2d lists and nested loops
